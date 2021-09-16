@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace PeaceOfMind.BE.Core.Logging
+namespace SDL.FluentLogScope
 {
     public static class LoggerExtensions
     {
