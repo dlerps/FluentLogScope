@@ -8,9 +8,9 @@ namespace SDL.FluentLogScope
     // ReSharper disable once PartialTypeWithSinglePart
     public partial class LoggingScopeBuilder<TService>
     {
-        private const string RequestIdKey = "Id";
+        private const string RequestIdKey = "RequestId";
         
-        private const string TraceIdKey = "Id";
+        private const string TraceIdKey = "TraceId";
         
         private const string CorrelationIdKey = "CorrelationId";
         
